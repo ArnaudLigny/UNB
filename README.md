@@ -3,7 +3,7 @@ Unclassified NewsBoard (UNB)
 
 Complete web bulletin board system with easy usage, XMPP, Unicode, polls, avatars, attachments, multiple designs and languages and powerful access rights management.
 
-Created by [Yves Goergen](http://dev.unclassified.de/en/meta).
+Created by [Yves Goergen](http://unclassified.software/meta).
 
 Why this forum?
 ---------------
@@ -29,5 +29,5 @@ This software is released under the terms of the GNU GPL licence, version 2 or l
 
 Statistic data
 --------------
-* Created on 2003-02-27, updated on 2011-05-27.
+* Created on 2003-02-27.
 * Ca. 41 570 lines of code, estimated development costs: 42 000 - 170 000 €
